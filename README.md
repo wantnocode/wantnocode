@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-A data visualization developer
-
-Like coding and things worth liking
+- 🔭 A software developer
+- 🤔 Like coding and things worth liking.
+- 🌱 I’m currently learning take a video...
 <!--
 **wantnocode/wantnocode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
